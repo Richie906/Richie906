@@ -39,6 +39,31 @@ Engineering scalable cloud-native solutions that power millions of users 🚀
 
 <br/>
 
+<!-- Quick Access to Repositories -->
+<p align="center">
+<b>🚀 QUICK ACCESS TO LIVE PROJECTS 🚀</b>
+</p>
+
+<p align="center">
+<a href="https://github.com/Richie906/spring-boot-3-jwt-security">
+<img src="https://img.shields.io/badge/🔐_JWT_Security-Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/Richie906/spring-boot-microservices-banking-application">
+<img src="https://img.shields.io/badge/🏦_Banking_App-Microservices-2088FF?style=for-the-badge&logo=java&logoColor=white"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/Richie906/spring-boot-react-ecommerce-app">
+<img src="https://img.shields.io/badge/🛒_E--Commerce-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/Richie906/ecommerce-spring-reactjs">
+<img src="https://img.shields.io/badge/🏬_E--Commerce-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/Richie906/cicd-demo">
+<img src="https://img.shields.io/badge/⚙️_CI/CD-DevOps-FF6B6B?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</a>
+</p>
+
+<br/>
+
 <!-- Elite Contact Matrix -->
 <table align="center">
 <tr>
@@ -318,6 +343,11 @@ print(f"Status: {performance_dashboard['availability']['uptime']} uptime achieve
 - 🔐 **Spring Security & JWT**
 - 📨 **Event-Driven Systems**
 
+**LIVE PROJECTS**
+
+[![JWT Security](https://img.shields.io/badge/View-JWT_Security-blue?style=flat-square&logo=github)](https://github.com/Richie906/spring-boot-3-jwt-security)
+[![Banking App](https://img.shields.io/badge/View-Banking_Platform-green?style=flat-square&logo=github)](https://github.com/Richie906/spring-boot-microservices-banking-application)
+
 </td>
 <td width="33%" valign="top">
 
@@ -337,6 +367,11 @@ print(f"Status: {performance_dashboard['availability']['uptime']} uptime achieve
 - ⚡ **Performance Optimization**
 - ♿ **WCAG Accessibility**
 - 🔄 **Real-time Data Integration**
+
+**LIVE PROJECTS**
+
+[![E-Commerce React](https://img.shields.io/badge/View-E--Commerce_React-61DAFB?style=flat-square&logo=react)](https://github.com/Richie906/spring-boot-react-ecommerce-app)
+[![E-Commerce TypeScript](https://img.shields.io/badge/View-E--Commerce_TS-3178C6?style=flat-square&logo=typescript)](https://github.com/Richie906/ecommerce-spring-reactjs)
 
 </td>
 <td width="33%" valign="top">
@@ -358,6 +393,10 @@ print(f"Status: {performance_dashboard['availability']['uptime']} uptime achieve
 - ⚡ **Serverless Architecture**
 - 📊 **Monitoring & Observability**
 
+**LIVE PROJECTS**
+
+[![CI/CD Demo](https://img.shields.io/badge/View-CI/CD_Pipeline-2088FF?style=flat-square&logo=github-actions)](https://github.com/Richie906/cicd-demo)
+
 </td>
 </tr>
 </table>
@@ -377,7 +416,212 @@ print(f"Status: {performance_dashboard['availability']['uptime']} uptime achieve
 
 </div>
 
-<!-- Methodology & Best Practices -->
+</div>
+
+<!-- Featured Projects Showcase -->
+<div align="center">
+
+## 🚀 **FEATURED PROJECTS SHOWCASE**
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 **SPRING BOOT JWT SECURITY**
+
+**Portfolio Project - Security & Authentication**
+
+<a href="https://github.com/Richie906/spring-boot-3-jwt-security">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+**🛠️ TECHNOLOGY STACK**
+
+```yaml
+Backend: Spring Boot 3 • Spring Security 6
+Database: PostgreSQL • JPA
+Security: JWT • Role-Based Access Control
+Build: Maven • Java 17
+License: Apache License 2.0
+```
+
+**🎯 KEY FEATURES**
+
+- ✨ Modern Spring Boot 3 & Security 6 implementation
+- 🔐 JWT token-based authentication & authorization
+- 👥 User registration and login workflows
+- 🛡️ Role-based access control (RBAC)
+- 📊 Production-ready security patterns
+
+</td>
+<td width="50%" valign="top">
+
+### 🏦 **BANKING MICROSERVICES PLATFORM**
+
+**Educational Project - Software Architecture**
+
+<a href="https://github.com/Richie906/spring-boot-microservices-banking-application">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+**🛠️ TECHNOLOGY STACK**
+
+```yaml
+Architecture: Microservices Pattern
+Backend: Spring Boot • Spring Cloud
+Services: User • Account • Fund Transfer • Transaction
+Gateway: API Gateway • Service Discovery
+Database: MySQL • JPA
+```
+
+**🎯 KEY FEATURES**
+
+- 🏗️ Complete microservices architecture
+- 💰 Banking operations (transfers, transactions)
+- 🔄 Service-to-service communication
+- 📈 Scalable distributed system design
+- 🎓 Educational software architecture demo
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 **E-COMMERCE REACT PLATFORM**
+
+**Full-Stack Application - From Scratch**
+
+<a href="https://github.com/Richie906/spring-boot-react-ecommerce-app">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+**🛠️ TECHNOLOGY STACK**
+
+```yaml
+Frontend: React.js • JavaScript • Redux
+Backend: Spring Boot • REST API
+Database: MySQL • Spring Data JPA
+Features: Payment Gateway • Cart Management
+Build: Complete full-stack solution
+```
+
+**🎯 KEY FEATURES**
+
+- 🎨 Modern responsive React UI
+- 🛍️ Complete e-commerce functionality
+- 💳 Payment integration ready
+- 🔄 Real-time cart management
+- 📦 Product catalog & inventory
+- 🚀 Built from scratch for learning
+
+</td>
+<td width="50%" valign="top">
+
+### 🏬 **E-COMMERCE TYPESCRIPT SYSTEM**
+
+**Educational Project - Software Architecture**
+
+<a href="https://github.com/Richie906/ecommerce-spring-reactjs">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+**🛠️ TECHNOLOGY STACK**
+
+```yaml
+Frontend: React.js • TypeScript
+Backend: Spring Boot • Java
+Database: Relational Database
+Architecture: Full-Stack MVC
+License: MIT License
+Type Safety: TypeScript throughout
+```
+
+**🎯 KEY FEATURES**
+
+- 📘 TypeScript for type safety
+- 🏛️ Software architecture mastery
+- 🎯 Educational best practices
+- 🔧 Modern tooling & frameworks
+- 📚 Comprehensive learning resource
+- ⚙️ Production patterns demonstrated
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ **CI/CD PIPELINE DEMO**
+
+**DevOps Best Practices Implementation**
+
+<a href="https://github.com/Richie906/cicd-demo">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+**🛠️ TECHNOLOGY STACK**
+
+```yaml
+CI/CD: Jenkins • GitHub Actions
+Containers: Docker • Kubernetes
+Testing: JUnit • Integration Tests
+Deployment: Automated Pipeline
+Monitoring: Production-ready setup
+```
+
+**🎯 KEY FEATURES**
+
+- 🔄 Automated CI/CD workflows
+- 🐳 Docker containerization
+- ☸️ Kubernetes orchestration
+- 🧪 Comprehensive test automation
+- 📊 Pipeline monitoring
+- 🚀 Industry best practices
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 **PROJECT STATISTICS**
+
+**Repository Highlights**
+
+<table>
+<tr>
+<td><b>Total Projects</b></td>
+<td><img src="https://img.shields.io/badge/5+-00D4AA?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>Tech Stack Diversity</b></td>
+<td><img src="https://img.shields.io/badge/Full_Stack-4ECDC4?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>Architecture Patterns</b></td>
+<td><img src="https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>Security Focus</b></td>
+<td><img src="https://img.shields.io/badge/JWT_&_OAuth-9B59B6?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>Cloud Ready</b></td>
+<td><img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square"/></td>
+</tr>
+</table>
+
+**🎯 FOCUS AREAS**
+
+- Enterprise Java Development
+- Full-Stack Web Applications  
+- Microservices Architecture
+- Cloud-Native Solutions
+- DevOps & Automation
+
+</td>
+</tr>
+</table>
+
+<!-- Engineering Principles -->
 <div align="center">
 
 ## 🎯 **ENGINEERING PRINCIPLES & PRACTICES**
@@ -534,7 +778,7 @@ Years Experience
 
 ## 📈 **DEVELOPMENT ACTIVITY MATRIX**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekseedarla&custom_title=Annual%20Development%20Activity&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFA116&area=true&hide_border=true&theme=react" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Richie906&custom_title=Annual%20Development%20Activity&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFA116&area=true&hide_border=true&theme=react" width="95%" />
 
 </div>
 
@@ -548,10 +792,10 @@ Years Experience
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://komarev.com/ghpvc/?username=abhishekseedarla&color=blue&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=Richie906&color=blue&style=for-the-badge&label=Profile+Views" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/github/followers/abhishekseedarla?style=for-the-badge&color=0366d6&labelColor=24292e&label=Network" />
+<img src="https://img.shields.io/github/followers/Richie906?style=for-the-badge&color=0366d6&labelColor=24292e&label=Network" />
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-brightgreen?style=for-the-badge&labelColor=2C3E50" />
