@@ -39,7 +39,7 @@ Engineering scalable cloud-native solutions that power millions of users 🚀
 
 <br/>
 
-<!-- Quick Access to Repositories -->
+<!-- Quick Access to Live Projects -->
 <p align="center">
 <b>🚀 QUICK ACCESS TO LIVE PROJECTS 🚀</b>
 </p>
@@ -84,11 +84,11 @@ Engineering scalable cloud-native solutions that power millions of users 🚀
 <a href="https://linkedin.com/in/abhishekseedarla">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=004182" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/abhishekseedarla">
+<a href="https://github.com/Richie906">
 <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=171515&color=000000" />
 </a>&nbsp;&nbsp;
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF5722&color=E64A19" />
+<a href="mailto:seedarlaabhishek62@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=B23121" />
 </a>
 </p>
 
@@ -315,109 +315,6 @@ print(f"Status: {performance_dashboard['availability']['uptime']} uptime achieve
 </tr>
 </table>
 
-<!-- Elite Tech Stack -->
-<div align="center">
-
-## 🛠️ **ELITE TECHNOLOGY ARSENAL**
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-### **☕ BACKEND MASTERY**
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,maven,gradle&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-</p>
-
-**SPECIALIZATIONS**
-
-- 🏗️ **Microservices Architecture**
-- 🔄 **RESTful API Design**
-- 🔐 **Spring Security & JWT**
-- 📨 **Event-Driven Systems**
-
-**LIVE PROJECTS**
-
-[![JWT Security](https://img.shields.io/badge/View-JWT_Security-blue?style=flat-square&logo=github)](https://github.com/Richie906/spring-boot-3-jwt-security)
-[![Banking App](https://img.shields.io/badge/View-Cloud_Banking-green?style=flat-square&logo=github)](https://github.com/Richie906/bank-app-spring-cloud-microservices)
-
-</td>
-<td width="33%" valign="top">
-
-### **⚛️ FRONTEND EXCELLENCE**
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-**CAPABILITIES**
-
-- 🎨 **Responsive UI/UX Design**
-- ⚡ **Performance Optimization**
-- ♿ **WCAG Accessibility**
-- 🔄 **Real-time Data Integration**
-
-**LIVE PROJECTS**
-
-[![E-Commerce React](https://img.shields.io/badge/View-E--Commerce_React-61DAFB?style=flat-square&logo=react)](https://github.com/Richie906/spring-boot-react-ecommerce-app)
-
-</td>
-<td width="33%" valign="top">
-
-### **☁️ CLOUD & DEVOPS**
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white"/>
-</p>
-
-**EXPERTISE**
-
-- 🚀 **CI/CD Pipelines**
-- 🐳 **Container Orchestration**
-- ⚡ **Serverless Architecture**
-- 📊 **Monitoring & Observability**
-
-**LIVE PROJECTS**
-
-[![CI/CD Demo](https://img.shields.io/badge/View-CI/CD_Pipeline-2088FF?style=flat-square&logo=github-actions)](https://github.com/Richie906/cicd-demo)
-[![Monitoring](https://img.shields.io/badge/View-Prometheus_Grafana-E6522C?style=flat-square&logo=prometheus)](https://github.com/Richie906/spring-boot-prometheus-grafana)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### **📊 DATABASE & MESSAGING**
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mockito-C5D928?style=for-the-badge"/>
-</p>
-
-</div>
-
-</div>
-
 <!-- Featured Projects Showcase -->
 <div align="center">
 
@@ -431,7 +328,7 @@ print(f"Status: {performance_dashboard['availability']['uptime']} uptime achieve
 
 ### 🔐 **SPRING BOOT JWT SECURITY**
 
-**Portfolio Project - Security & Authentication**
+**Modern Authentication & Authorization**
 
 <a href="https://github.com/Richie906/spring-boot-3-jwt-security">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -626,6 +523,107 @@ Monitoring: Production-ready setup
 </td>
 </tr>
 </table>
+
+<!-- Elite Tech Stack -->
+<div align="center">
+
+## 🛠️ **ELITE TECHNOLOGY ARSENAL**
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### **☕ BACKEND MASTERY**
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,maven,gradle&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+</p>
+
+**SPECIALIZATIONS**
+
+- 🏗️ **Microservices Architecture**
+- 🔄 **RESTful API Design**
+- 🔐 **Spring Security & JWT**
+- 📨 **Event-Driven Systems**
+
+**LIVE PROJECTS**
+
+[![JWT Security](https://img.shields.io/badge/View-JWT_Security-blue?style=flat-square&logo=github)](https://github.com/Richie906/spring-boot-3-jwt-security)
+[![Banking App](https://img.shields.io/badge/View-Cloud_Banking-green?style=flat-square&logo=github)](https://github.com/Richie906/bank-app-spring-cloud-microservices)
+
+</td>
+<td width="33%" valign="top">
+
+### **⚛️ FRONTEND EXCELLENCE**
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+**CAPABILITIES**
+
+- 🎨 **Responsive UI/UX Design**
+- ⚡ **Performance Optimization**
+- ♿ **WCAG Accessibility**
+- 🔄 **Real-time Data Integration**
+
+**LIVE PROJECTS**
+
+[![E-Commerce React](https://img.shields.io/badge/View-E--Commerce_React-61DAFB?style=flat-square&logo=react)](https://github.com/Richie906/spring-boot-react-ecommerce-app)
+
+</td>
+<td width="33%" valign="top">
+
+### **☁️ CLOUD & DEVOPS**
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white"/>
+</p>
+
+**EXPERTISE**
+
+- 🚀 **CI/CD Pipelines**
+- 🐳 **Container Orchestration**
+- ⚡ **Serverless Architecture**
+- 📊 **Monitoring & Observability**
+
+**LIVE PROJECTS**
+
+[![CI/CD Demo](https://img.shields.io/badge/View-CI/CD_Pipeline-2088FF?style=flat-square&logo=github-actions)](https://github.com/Richie906/cicd-demo)
+[![Monitoring](https://img.shields.io/badge/View-Prometheus_Grafana-E6522C?style=flat-square&logo=prometheus)](https://github.com/Richie906/spring-boot-prometheus-grafana)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### **📊 DATABASE & MESSAGING**
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mockito-C5D928?style=for-the-badge"/>
+</p>
+
+</div>
 
 <!-- Engineering Principles -->
 <div align="center">
