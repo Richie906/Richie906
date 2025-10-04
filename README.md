@@ -54,8 +54,8 @@ Engineering scalable cloud-native solutions that power millions of users 🚀
 <a href="https://github.com/Richie906/spring-boot-react-ecommerce-app">
 <img src="https://img.shields.io/badge/🛒_E--Commerce-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </a>&nbsp;&nbsp;
-<a href="https://github.com/Richie906/ecommerce-spring-reactjs">
-<img src="https://img.shields.io/badge/🏬_E--Commerce-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<a href="https://github.com/Richie906/spring-boot-prometheus-grafana">
+<img src="https://img.shields.io/badge/📊_Monitoring-Prometheus_Grafana-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 </a>&nbsp;&nbsp;
 <a href="https://github.com/Richie906/cicd-demo">
 <img src="https://img.shields.io/badge/⚙️_CI/CD-DevOps-FF6B6B?style=for-the-badge&logo=github-actions&logoColor=white"/>
@@ -371,7 +371,6 @@ print(f"Status: {performance_dashboard['availability']['uptime']} uptime achieve
 **LIVE PROJECTS**
 
 [![E-Commerce React](https://img.shields.io/badge/View-E--Commerce_React-61DAFB?style=flat-square&logo=react)](https://github.com/Richie906/spring-boot-react-ecommerce-app)
-[![E-Commerce TypeScript](https://img.shields.io/badge/View-E--Commerce_TS-3178C6?style=flat-square&logo=typescript)](https://github.com/Richie906/ecommerce-spring-reactjs)
 
 </td>
 <td width="33%" valign="top">
@@ -396,6 +395,7 @@ print(f"Status: {performance_dashboard['availability']['uptime']} uptime achieve
 **LIVE PROJECTS**
 
 [![CI/CD Demo](https://img.shields.io/badge/View-CI/CD_Pipeline-2088FF?style=flat-square&logo=github-actions)](https://github.com/Richie906/cicd-demo)
+[![Monitoring](https://img.shields.io/badge/View-Prometheus_Grafana-E6522C?style=flat-square&logo=prometheus)](https://github.com/Richie906/spring-boot-prometheus-grafana)
 
 </td>
 </tr>
@@ -519,33 +519,33 @@ Build: Complete full-stack solution
 </td>
 <td width="50%" valign="top">
 
-### 🏬 **E-COMMERCE TYPESCRIPT SYSTEM**
+### 📊 **SPRING BOOT MONITORING SYSTEM**
 
-**Educational Project - Software Architecture**
+**Observability - Prometheus & Grafana**
 
-<a href="https://github.com/Richie906/ecommerce-spring-reactjs">
+<a href="https://github.com/Richie906/spring-boot-prometheus-grafana">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 **🛠️ TECHNOLOGY STACK**
 
 ```yaml
-Frontend: React.js • TypeScript
-Backend: Spring Boot • Java
-Database: Relational Database
-Architecture: Full-Stack MVC
-License: MIT License
-Type Safety: TypeScript throughout
+Backend: Spring Boot • Spring Actuator
+Monitoring: Prometheus • Grafana
+Metrics: Micrometer Registry
+Deployment: Docker Compose
+Observability: Real-time Dashboards
+Visualization: Custom Grafana Panels
 ```
 
 **🎯 KEY FEATURES**
 
-- 📘 TypeScript for type safety
-- 🏛️ Software architecture mastery
-- 🎯 Educational best practices
-- 🔧 Modern tooling & frameworks
-- 📚 Comprehensive learning resource
-- ⚙️ Production patterns demonstrated
+- 📈 Real-time application monitoring
+- 🎯 Custom Prometheus metrics
+- 📊 Interactive Grafana dashboards
+- 🔍 JVM & application insights
+- ⚡ Performance tracking
+- 🚨 Alert configuration ready
 
 </td>
 </tr>
@@ -604,8 +604,8 @@ Monitoring: Production-ready setup
 <td><img src="https://img.shields.io/badge/JWT_&_OAuth-9B59B6?style=flat-square"/></td>
 </tr>
 <tr>
-<td><b>Cloud Ready</b></td>
-<td><img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square"/></td>
+<td><b>Observability</b></td>
+<td><img src="https://img.shields.io/badge/Prometheus_Grafana-E6522C?style=flat-square"/></td>
 </tr>
 </table>
 
@@ -614,7 +614,7 @@ Monitoring: Production-ready setup
 - Enterprise Java Development
 - Full-Stack Web Applications  
 - Microservices Architecture
-- Cloud-Native Solutions
+- Monitoring & Observability
 - DevOps & Automation
 
 </td>
