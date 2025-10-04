@@ -48,8 +48,8 @@ Engineering scalable cloud-native solutions that power millions of users 🚀
 <a href="https://github.com/Richie906/spring-boot-3-jwt-security">
 <img src="https://img.shields.io/badge/🔐_JWT_Security-Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </a>&nbsp;&nbsp;
-<a href="https://github.com/Richie906/spring-boot-microservices-banking-application">
-<img src="https://img.shields.io/badge/🏦_Banking_App-Microservices-2088FF?style=for-the-badge&logo=java&logoColor=white"/>
+<a href="https://github.com/Richie906/bank-app-spring-cloud-microservices">
+<img src="https://img.shields.io/badge/🏦_Banking_App-Spring_Cloud-2088FF?style=for-the-badge&logo=spring&logoColor=white"/>
 </a>&nbsp;&nbsp;
 <a href="https://github.com/Richie906/spring-boot-react-ecommerce-app">
 <img src="https://img.shields.io/badge/🛒_E--Commerce-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -346,7 +346,7 @@ print(f"Status: {performance_dashboard['availability']['uptime']} uptime achieve
 **LIVE PROJECTS**
 
 [![JWT Security](https://img.shields.io/badge/View-JWT_Security-blue?style=flat-square&logo=github)](https://github.com/Richie906/spring-boot-3-jwt-security)
-[![Banking App](https://img.shields.io/badge/View-Banking_Platform-green?style=flat-square&logo=github)](https://github.com/Richie906/spring-boot-microservices-banking-application)
+[![Banking App](https://img.shields.io/badge/View-Cloud_Banking-green?style=flat-square&logo=github)](https://github.com/Richie906/bank-app-spring-cloud-microservices)
 
 </td>
 <td width="33%" valign="top">
@@ -460,29 +460,35 @@ License: Apache License 2.0
 
 ### 🏦 **BANKING MICROSERVICES PLATFORM**
 
-**Educational Project - Software Architecture**
+**Cloud-Native Banking Application**
 
-<a href="https://github.com/Richie906/spring-boot-microservices-banking-application">
+<a href="https://github.com/Richie906/bank-app-spring-cloud-microservices">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 **🛠️ TECHNOLOGY STACK**
 
 ```yaml
-Architecture: Microservices Pattern
+Architecture: Microservices • Cloud-Native
 Backend: Spring Boot • Spring Cloud
-Services: User • Account • Fund Transfer • Transaction
-Gateway: API Gateway • Service Discovery
-Database: MySQL • JPA
+Service Discovery: Eureka Server
+Config Management: Spring Cloud Config
+Load Balancing: Netflix Ribbon
+Circuit Breaker: Hystrix
+API Gateway: Spring Cloud Gateway
+Distributed Tracing: Sleuth • Zipkin
 ```
 
 **🎯 KEY FEATURES**
 
-- 🏗️ Complete microservices architecture
-- 💰 Banking operations (transfers, transactions)
-- 🔄 Service-to-service communication
-- 📈 Scalable distributed system design
-- 🎓 Educational software architecture demo
+- 🏗️ Complete microservices transformation journey
+- ☁️ Spring Cloud ecosystem integration
+- 🔄 Centralized configuration management
+- 🔍 Service discovery with Eureka
+- ⚖️ Client-side load balancing
+- 🛡️ Circuit breaker patterns with Hystrix
+- 🚪 Single entry point via API Gateway
+- 📊 Distributed request tracing
 
 </td>
 </tr>
