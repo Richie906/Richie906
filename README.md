@@ -193,7 +193,7 @@ print(f"Status: {performance_dashboard['availability']['uptime']} uptime achieve
 <tr><td>🚀</td><td><b>Microservices Built</b></td><td><img src="https://img.shields.io/badge/50+-00D4AA?style=for-the-badge&labelColor=0D1117"/></td></tr>
 <tr><td>⭐</td><td><b>API Endpoints</b></td><td><img src="https://img.shields.io/badge/200+-FFD700?style=for-the-badge&labelColor=0D1117"/></td></tr>
 <tr><td>🔄</td><td><b>CI/CD Pipelines</b></td><td><img src="https://img.shields.io/badge/15+-FF6B6B?style=for-the-badge&labelColor=0D1117"/></td></tr>
-<tr><td>🐛</td><td><b>Code Coverage</b></td><td><img src="https://img.shields.io/badge/90%+-4ECDC4?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🧪</td><td><b>Code Coverage</b></td><td><img src="https://img.shields.io/badge/90%25+-4ECDC4?style=for-the-badge&labelColor=0D1117"/></td></tr>
 <tr><td>📈</td><td><b>Users Supported</b></td><td><img src="https://img.shields.io/badge/Millions-A8E6CF?style=for-the-badge&labelColor=0D1117"/></td></tr>
 </table>
 
